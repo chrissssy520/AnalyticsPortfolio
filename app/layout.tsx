@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Data Portfolio | Your Name',
+  title: 'Christian Kho Aler ',
   description: 'Data analyst portfolio showcasing dashboards, SQL queries, and Excel projects',
   generator: 'v0.app',
   icons: {
